@@ -1,0 +1,14 @@
+layout_spectrum: 0.6981771246064454
+typography_spectrum: 0.09543909505009651
+color:
+  brandStrength: 0.7673423946835101
+  lightness: 0.05799700319766998
+  saturation: 0.6517933513969183
+  rhythmicContrast: 0.5944756476674229
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Base8
