@@ -1,4 +1,3 @@
-layout_spectrum: 0.6981771246064454
 typography_spectrum: 0.09543909505009651
 color:
   brandStrength: 0.7673423946835101
@@ -11,5 +10,7 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+layout_spectrum: 0.6981771246064454
 name: Base8
 title: møbler og interiør
+description: lidt anderledes
